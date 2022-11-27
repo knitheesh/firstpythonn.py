@@ -1,2 +1,7 @@
 # firstpythonn.py
-this is buiseness
+
+print("new python file")
+
+
+
+
